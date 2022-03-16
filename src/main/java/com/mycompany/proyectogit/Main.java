@@ -11,5 +11,6 @@ package com.mycompany.proyectogit;
 public class Main {
     public static void main(String[] args) {
         System.out.println("com.mycompany.proyectogit.Main.main()");
+        System.out.println("Prueba de cambio");
     }
 }
